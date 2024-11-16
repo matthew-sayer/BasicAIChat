@@ -1,0 +1,6 @@
+transformers
+sentence-transformers
+torch
+pandas
+PyPDF2
+python-dotenv
